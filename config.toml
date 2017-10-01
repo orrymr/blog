@@ -1,5 +1,4 @@
 baseURL = "https://cameraman-mule-17738.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "| orrymr |"
 theme = "ananke"
-contentDir = "content"
