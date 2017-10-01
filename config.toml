@@ -1,4 +1,13 @@
 baseURL = "https://cameraman-mule-17738.netlify.com/"
 languageCode = "en-us"
-title = "| orrymr |"
+title = "| orrymr's site |"
 theme = "ananke"
+sectionPagesMenu = "main"
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
+
