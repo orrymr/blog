@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "| orrymr's site |"
 theme = "ananke"
 sectionPagesMenu = "main"
+disqusShortname = "orrymr"
 
 [[menu.main]]
     name = "About"
