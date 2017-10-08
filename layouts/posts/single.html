@@ -19,7 +19,8 @@
         {{ .Date.Format "January 2, 2006" }}
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
-        {{ .Content }}
+        Tags: {{ .Params.tags }}
+	{{ .Content }}
 	{{ template "_internal/disqus.html" . }}
       </section>
       {{ partial "tags.html" . }}
