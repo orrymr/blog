@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>| orrymr |</title>
+    <title>| orrymr&#39;s site |</title>
     <link>https://cameraman-mule-17738.netlify.com/</link>
-    <description>Recent content on | orrymr |</description>
+    <description>Recent content on | orrymr&#39;s site |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 20:37:20 +0200</lastBuildDate>
     
 	<atom:link href="https://cameraman-mule-17738.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://cameraman-mule-17738.netlify.com/about/</link>
+      <pubDate>Sun, 01 Oct 2017 20:37:20 +0200</pubDate>
+      
+      <guid>https://cameraman-mule-17738.netlify.com/about/</guid>
+      <description>Hello. My name is Orry Messer. This is my blog. Orry, if you&amp;rsquo;re reading this at some point in the future (your present), know that current (past) you wants you to flesh out this section more thoroughly. Explain to The People that you wish this blog to be about tech, music and any other fanciful thing that keeps your attention for long enough to blog about it. The People must know that you are an elitist metalhead who probably thinks that their collective taste in music is rubbish.</description>
+    </item>
     
   </channel>
 </rss>

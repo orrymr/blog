@@ -12,3 +12,5 @@ disqusShortname = "orrymr"
     identifier = "about"
     url = "/about/"
 
+[taxonomies]
+   tag = "tags"
