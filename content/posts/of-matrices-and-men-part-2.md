@@ -1,7 +1,7 @@
 ---
 title: "Of Matrices and Men (pt. 2)"
 date: 2017-10-22T20:35:21+02:00
-draft: true
+draft: false
 tags: ["linear algebra", "18.06", "matrices"]
 ---
 
