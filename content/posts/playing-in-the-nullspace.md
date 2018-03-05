@@ -1,6 +1,6 @@
 ---
 title: "Playing in the Nullspace"
-date: 2017-10-22T20:35:21+02:00
+date: 2018-03-01T20:35:21+02:00
 draft: true
 tags: ["linear algebra", "18.06", "matrices", "nullspace"]
 ---
