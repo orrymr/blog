@@ -2,8 +2,12 @@ baseURL = "https://cameraman-mule-17738.netlify.com/"
 languageCode = "en-us"
 title = "| orrymr's site |"
 theme = "ananke"
+
 sectionPagesMenu = "main"
 disqusShortname = "orrymr"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-115127992-1"
+enableRobotsTXT = true
 
 [[menu.main]]
     name = "About"
@@ -27,4 +31,4 @@ disqusShortname = "orrymr"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 20
+  recent_posts_number = 3
