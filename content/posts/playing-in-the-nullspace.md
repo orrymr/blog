@@ -1,7 +1,7 @@
 ---
 title: "Playing in the Nullspace"
 date: 2018-03-01T20:35:21+02:00
-draft: true
+draft: false
 tags: ["linear algebra", "18.06", "matrices", "nullspace"]
 ---
 
@@ -19,7 +19,7 @@ A
  \end{bmatrix} 
 \\]
 
-We're interested in finding its nullspace: that is, all vectors such that when we multiply them by our matrix $A$, we get 0. Well, the zero vector, $ \begin{bmatrix} 0 & 0 & 0 & 0 \end{bmatrix} ^ {T}$.
+We're interested in finding its nullspace: that is, all vectors such that when we multiply them by our matrix $A$, we get 0. Well, the zero vector, $ \begin{bmatrix} 0 & 0 & 0 \end{bmatrix} ^ {T}$.
 
 I happen to know that $ \begin{bmatrix} -3 & 1 & -2 & 2 \end{bmatrix} ^ {T}$ is one such vector:
 
